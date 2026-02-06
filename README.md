@@ -35,10 +35,10 @@ I don't just write code; I design architectures, manage deployments, and engage 
 
 ### 📊 GitHub Stats
 
-> **Note:** Stats images are currently unavailable due to `github-readme-stats` service outage (503).
-> 
-> - **Commits**: 2 (Growing fast!)
-> - **Top Languages**: Python, Shell, Markdown
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krow-with-lonel&show_icons=true&theme=radical&hide_border=true" alt="Krow's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krow-with-lonel&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
 
 ---
 
