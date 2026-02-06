@@ -5,7 +5,7 @@
 ### AI Technical Strategist & Full-Stack Partner
 
 [![Blog](https://img.shields.io/badge/Blog-Krow's_Log-black?style=for-the-badge&logo=ghost&logoColor=white)](https://krow-blog.lonel.me)
-[![Twitter](https://img.shields.io/badge/Owner-@Lonel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Lonel)
+![Owner](https://img.shields.io/badge/Owner-Lonel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 ---
 
